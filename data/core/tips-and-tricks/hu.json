@@ -1,0 +1,73 @@
+
+[
+  {
+    "title": "Egyéb műveletek a kemencékkel",
+    "image": "other-furnace-usage.png",
+    "text": "A kemencék képesek megolvasztani a követ, hogy kőtömböket készíthess, illetve a vaslemezt acéllemezzé olvaszthatod(fejlesztés szükséges ezekhez a műveletekhez)."
+  },
+  {
+    "title": "A futószalag két oldala",
+    "image": "two-sides-of-belts.png",
+    "text": "A futószalag jobb és baloldala külön külön is felhasználható, egymástól eltérő anyagok szállítására. A manipulátorok a futószalag távolabbi oldalára pakolnak mindig."
+  },
+  {
+    "title": "Újraépítés",
+    "image": "rebuilding.png",
+    "text": "A vegyestüzelésű kemence és a Vegyestüzelésű olvasztókemence újraépíthető anélkül, hogy az elődöt lebontanád. Az azonos működésű gépek, futószalagok, ládák és hasonlók kicserélhetőek felülépítéssel. ez hasznos lehet például akkor is amikor nagyobb futószalag darabot akarsz átállítani ellenkező irányba."
+  },
+  {
+    "title": "Információ az elektromos hálózatról",
+    "image": "electric-network-info.png",
+    "text": "Ha végrehajtasz egy \"__CONTROL__open-gui__\" -t egy villanypóznán vagy hasonlón megtekintheted az egybefüggő elektromos hálózat statisztikáját."
+  },
+  {
+    "title": "Rakás mozgatása",
+    "image": "stack-transfer.png",
+    "text": "A \"__CONTROL__stack-transfer__\" egy egész rakást mozgat. Ráadásul, mozgatási rendszer okos eléggé, hogy ha elérhető kitalálja, hogy mit hova akarsz mozgatni. Például a rakásmozgatás egy __ITEM__iron-axe__n azt eredményezi , hogy az eszközhelyre kerül a tárgy. Míg Vegyestüzelésű kemencébe pillantva egy rakás szénre kattintva az üzemanyag térbe kerül a szén."
+  },
+  {
+    "title": "Tárgylista mozgatása",
+    "image": "inventory-transfer.png",
+    "text": "A \"__CONTROL__inventory-transfer__\" minden rakást átmozgat egyik listából a másikba. Ami arra használható például, hogy minden nálad lévő futószalagot egy mozdulattal a __ENTITY__wooden-chest__ba mozgathass."
+  },
+  {
+    "title": "Gyors entitás mozgatás",
+    "image": "fast-entity-transfer.png",
+    "text": "A \"__CONTROL__fast-entity-transfer__\" engedményezi, hogy ha üres a kezed, akkor egy kattintással mindent felvegyél egy tárolóból például egy fa ládából. Míg a \"__CONTROL__fast-entity-split__\" a ládában lévő tárgyak felét veszi fel - amíg van helyed."
+  },
+  {
+    "title": "Gyors sáv használata",
+    "image": "quickbar.png",
+    "text": "Minden gyors sáv helynek van gyorsbillentyűje. Ha ezt lenyomod a kurzor helyére ugrik a gyors sáv tartalma."
+  },
+  {
+    "title": "Kurzor ürítés",
+    "image": "clean-cursor.png",
+    "text": "A \"__CONTROL__clean-cursor__\" megnyomása a kurzorban lévő tárgyat vagy rakást a tárgylistába vagy a gyors sávba mozgatva felszabadítja a kurzort."
+  },
+  {
+    "title": "Részletes információ",
+    "image": "show-info.png",
+    "text": "A \"__CONTROL__show-info__\" megjeleníti a részletes információkat. A ládák tartalmát, a gépek es manipulátorok irány nyilait és hasonló kisegítő információkat."
+  },
+  {
+    "title": "Építés futás közben",
+    "image": "building-while-running.png",
+    "text": "A leggyorsabb módja annak, hogy egyenes vonalban építkezzél például futószalagot vagy __ENTITY__pipe__vezetéket. Ha lenyomod a \"__CONTROL__build__\" -t majd az építendő irányba szaladsz..."
+  },
+  {
+    "title": "Gyors villamoz vezetékek telepítése",
+    "image": "building-electric-lines.png",
+    "text": "A leggyorsabb megoldás villanypóznák telepítésével valahova áramot vezetni, ha futás közben építesz. A villanypóznák mindig pontosan a legtávolabbi vezeték távolságba fognak kerülni, és így egyben marad a villanyvezeték hálózatod."
+  },
+  {
+    "title": "Szűrők",
+    "image": "filter.png",
+    "text": "A \"__CONTROL__set-filter__ lenyomása a gyors sávon azt eredményezi, hogy az adott gyors sáv csak az adott tárgyat fogja befogadni a jövőben. Így beállíthatod, hogy például a manipulátorok mindig ugyanabba a gyors sáv helybe kerüljenek, és így mindig kényelmesen ugyanonnan építkezhetsz belőlük."
+  },
+  {
+    "title": "Használható tárgyak",
+    "image": "usable-items.png",
+    "text": "Az egérkurzor mindig mutatja, hogy hol meddig merre használhatsz egy tárgyat. Például a kapszulák vagy gránátok eldobási zónáját."
+  }
+]
